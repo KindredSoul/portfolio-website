@@ -3242,7 +3242,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #914eb7;
 		}
 
 		.wrapper.style3-alt {
@@ -3857,10 +3857,11 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("images/Chicago.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
+		color: rgb(255, 255, 255);
 	}
 
 		#intro p {
